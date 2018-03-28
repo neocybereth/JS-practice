@@ -3,6 +3,7 @@
 Practicing Javascript with mini projects.
 
 ### Things to Learn
+**** Contributions to Open Source Javascript projects
 * Branching/Forking
 * Pull Requests
 * Code Reviews
